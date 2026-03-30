@@ -19,12 +19,12 @@ print(courses)
 
 # print(courses)
 
-new_courses = ()
+# new_courses = ()
 
-new_courses = tuple(courses)
+# new_courses = tuple(courses)
 
-print(new_courses)
+# print(new_courses)
 
-set_courses = set(new_courses)
+# set_courses = set(new_courses)
 
-print(set_courses)
+# print(set_courses)
